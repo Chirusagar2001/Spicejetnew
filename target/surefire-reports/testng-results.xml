@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-08T09:55:51 IST" name="Suite" finished-at="2023-11-08T09:59:40 IST" duration-ms="229179">
+    <groups>
+    </groups>
+    <test started-at="2023-11-08T09:55:51 IST" name="Test" finished-at="2023-11-08T09:59:40 IST" duration-ms="229179">
+      <class name="atSpicejetProjectnew.ATSpicejetProjectnew">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:atSpicejetProjectnew.ATSpicejetProjectnew@59309333]" started-at="2023-11-08T09:55:51 IST" name="launchBrowser" finished-at="2023-11-08T09:58:58 IST" duration-ms="186717" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="launchapplication()[pri:1, instance:atSpicejetProjectnew.ATSpicejetProjectnew@59309333]" started-at="2023-11-08T09:58:58 IST" name="launchapplication" finished-at="2023-11-08T09:59:02 IST" duration-ms="4080" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchapplication -->
+        <test-method signature="testSignUpPage()[pri:2, instance:atSpicejetProjectnew.ATSpicejetProjectnew@59309333]" started-at="2023-11-08T09:59:02 IST" name="testSignUpPage" finished-at="2023-11-08T09:59:05 IST" duration-ms="3122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSignUpPage -->
+        <test-method signature="searchforflight()[pri:3, instance:atSpicejetProjectnew.ATSpicejetProjectnew@59309333]" started-at="2023-11-08T09:59:05 IST" name="searchforflight" finished-at="2023-11-08T09:59:13 IST" duration-ms="8065" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchforflight -->
+        <test-method signature="proceedtobookingpage()[pri:4, instance:atSpicejetProjectnew.ATSpicejetProjectnew@59309333]" started-at="2023-11-08T09:59:13 IST" name="proceedtobookingpage" finished-at="2023-11-08T09:59:18 IST" duration-ms="5090" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- proceedtobookingpage -->
+        <test-method signature="filloutbookingform()[pri:5, instance:atSpicejetProjectnew.ATSpicejetProjectnew@59309333]" started-at="2023-11-08T09:59:18 IST" name="filloutbookingform" finished-at="2023-11-08T09:59:24 IST" duration-ms="6020" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- filloutbookingform -->
+        <test-method signature="addsonpage()[pri:6, instance:atSpicejetProjectnew.ATSpicejetProjectnew@59309333]" started-at="2023-11-08T09:59:24 IST" name="addsonpage" finished-at="2023-11-08T09:59:40 IST" duration-ms="15634" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addsonpage -->
+        <test-method signature="paymentinformation()[pri:8, instance:atSpicejetProjectnew.ATSpicejetProjectnew@59309333]" started-at="2023-11-08T09:59:40 IST" name="paymentinformation" finished-at="2023-11-08T09:59:40 IST" duration-ms="364" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- paymentinformation -->
+      </class> <!-- atSpicejetProjectnew.ATSpicejetProjectnew -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
